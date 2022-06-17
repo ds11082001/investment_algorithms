@@ -1,0 +1,12 @@
+catboost_info
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.idea
+/data
+build/
+dist/
+*.egg-info/
+
+*/wandb*
+
